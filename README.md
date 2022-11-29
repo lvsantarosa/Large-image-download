@@ -1,3 +1,5 @@
+# Download image cliped by a GRID
+
 To download a large reduced image you can use a couple of scripts that I joined from other programmers. 
 
 First, select an interest region to create and export the GRID. It is possible to edit the size.
